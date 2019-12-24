@@ -1,0 +1,45 @@
+body,
+html {
+  background: url(https://www.newdoggy.com/wp-content/uploads/2018/09/Souty-male-golden-retriever-puppy-for-sale.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100% ;
+}
+h1{
+ color: #FFFFF0;
+ -webkit-text-stroke: 1px #FCB134;
+
+}
+hr {
+
+  border: 5px solid orange;
+  border-radius: 3px;
+
+}
+.buffer{
+height: 5px;
+}
+.bnt-xl {
+  padding: 15px 15px;
+
+}
+.btn{
+font-weight: 500;
+border-radius: 300px;
+
+}
+
+.btn-warning {
+background-color: #FCB134;
+border-color: #FCB134;
+
+}
+
+.btn-warning:hover {
+background-color: #ee4b08;
+border-color: #ee4b08;
+border-width: 4px;
+
+}
